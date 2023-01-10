@@ -1,0 +1,2 @@
+# NotOrtalamasi
+Not Ortalaması Uygulaması
